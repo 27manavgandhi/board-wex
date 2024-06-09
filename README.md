@@ -18,8 +18,8 @@ Welcome to **Board Wex** - A collaborative, real-time whiteboard application. Th
 - 💅 **TailwindCSS & ShadcnUI styling**: Stylish and responsive design using TailwindCSS and ShadcnUI.
 
 ## ScreenShot
-(https://github.com/27manavgandhi/board-wex/assets/77005766/08546559-425b-405c-9977-644302791b75)
-(https://github.com/27manavgandhi/board-wex/assets/77005766/0194e65b-79a5-4f4c-b629-3bd726a3b579)
+![](https://github.com/27manavgandhi/board-wex/assets/77005766/08546559-425b-405c-9977-644302791b75)
+![](https://github.com/27manavgandhi/board-wex/assets/77005766/0194e65b-79a5-4f4c-b629-3bd726a3b579)
 
 
 
